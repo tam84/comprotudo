@@ -70,7 +70,7 @@ gem 'devise'
 
 gem 'bootstrap'
 
-#gem 'redis', '~> 3.2'
+gem 'redis', '~> 3.2'
 
 gem 'jquery-rails'
 
@@ -78,7 +78,7 @@ gem 'font-awesome-rails'
 
 gem 'popper_js', '~> 1.12.9'
 
-#gem 'pg_search'
+gem 'pg_search'
 
 gem 'figaro'
 group :development do
