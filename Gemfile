@@ -96,7 +96,7 @@ gem "aws-sdk-s3", require: false
 gem 'tinymce-rails'
 
 
-#gem "roo"
+gem "roo"
 
 gem 'capistrano-rails-console', require: false
 
