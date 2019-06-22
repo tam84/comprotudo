@@ -1,7 +1,7 @@
 lock '3.11.0'
 
-set :application, 'senior'
-set :repo_url, 'git@github.com:tam84/senior.git' # Edit this to match your repository
+set :application, 'comprotudo'
+set :repo_url, 'git@github.com:tam84/comprotudo.git' # Edit this to match your repository
 set :branch, :master
 set :deploy_to, '/home/deploy/tam84_v2'
 set :pty, true
